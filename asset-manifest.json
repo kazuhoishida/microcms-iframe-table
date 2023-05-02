@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/microcms-iframe-table/static/css/main.2f93be6a.css",
+    "main.js": "/microcms-iframe-table/static/js/main.d36671c6.js",
+    "static/media/combine_cells.svg": "/microcms-iframe-table/static/media/combine_cells.aaf034ce28f591468e0d85a5f93771f4.svg",
+    "static/media/change_th_col.svg": "/microcms-iframe-table/static/media/change_th_col.0b29c7d7f295fcf24c584b871cef4cb2.svg",
+    "static/media/change_th_row.svg": "/microcms-iframe-table/static/media/change_th_row.3c773320e07946452e9fc67a25a28684.svg",
+    "static/media/add_col_after.svg": "/microcms-iframe-table/static/media/add_col_after.644ea33fbbc15475f4c0ada73524d22b.svg",
+    "static/media/add_col_before.svg": "/microcms-iframe-table/static/media/add_col_before.9348e7a0175f6ff29ccf4222b0abf3c4.svg",
+    "static/media/add_row_before.svg": "/microcms-iframe-table/static/media/add_row_before.cd21f1f2d73673e7709c2d9c6b19356a.svg",
+    "static/media/add_row_after.svg": "/microcms-iframe-table/static/media/add_row_after.16e3480b8964dec90adb98b8ddf1dc34.svg",
+    "static/media/bold.svg": "/microcms-iframe-table/static/media/bold.9da8357bace5e408ec174db21b2dce8d.svg",
+    "static/media/delete_col.svg": "/microcms-iframe-table/static/media/delete_col.a9882560b0348bb6554927cdce8e4308.svg",
+    "index.html": "/microcms-iframe-table/index.html",
+    "static/media/delete_row.svg": "/microcms-iframe-table/static/media/delete_row.be2941dc313bede212780f62548bd0f5.svg",
+    "main.2f93be6a.css.map": "/microcms-iframe-table/static/css/main.2f93be6a.css.map",
+    "main.d36671c6.js.map": "/microcms-iframe-table/static/js/main.d36671c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f93be6a.css",
+    "static/js/main.d36671c6.js"
+  ]
+}
